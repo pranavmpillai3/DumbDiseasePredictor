@@ -1,0 +1,23 @@
+{
+    "0": "acidity",
+    "1": "back_pain",
+    "2": "chills",
+    "3": "congestion",
+    "4": "continuous_sneezing",
+    "5": "cough",
+    "6": "depression",
+    "7": "diarrhoea",
+    "8": "dizziness",
+    "9": "headache",
+    "10": "indigestion",
+    "11": "inflammatory_nails",
+    "12": "itching",
+    "13": "nausea",
+    "14": "runny_nose",
+    "15": "skin_rash",
+    "16": "stomach_pain",
+    "17": "sweating",
+    "18": "throat_irritation",
+    "19": "tiredness",
+    "20": "vomiting"
+}
