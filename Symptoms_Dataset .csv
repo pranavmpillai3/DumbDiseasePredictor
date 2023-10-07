@@ -1,0 +1,22 @@
+acidity,back_pain,chills,congestion,continuous_sneezing,cough,depression,diarrhoea,dizziness,headache,indigestion,inflammatory_nails,itching,nausea,runny_nose,skin_rash,stomach_pain,sweating,throat_irritation,tiredness,vomiting,prognosis
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Allergy
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Bronchial Asthma
+0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,Chicken_pox
+0,0,1,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,Common cold
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Covid
+0,1,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,1,Dengue
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Diabetes
+0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,Drug Reaction
+0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Fungal Infection
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Gastroenteritis
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Heart Attack
+0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Hypertension
+0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Hyperthyroidism
+0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Jaundice
+0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,1,Malaria
+1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Migraine
+0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Peptic Ulser Disease
+0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Pneumonia
+0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Psoriasis
+0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Tuberculosis
+0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,Typhoid
